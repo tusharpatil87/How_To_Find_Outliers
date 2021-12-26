@@ -1,0 +1,2 @@
+# How_To_Find_Outliers
+We have successfully implemented the logic for the customized function and with the help of that we achieved our Primary goal which is to find out the Outlier values from the Data series. We have seen how to set the Minimum value to find out the Lower Outliers and we have also seen that how to set the Maximum value for the Higher Outliers. Now we can use this function values  like Minimum and Maximum values to clean the impurities from the Data series.
